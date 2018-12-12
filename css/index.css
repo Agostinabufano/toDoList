@@ -1,0 +1,16 @@
+body {
+    background-image: url("../img/cee7749c-80ce-4af1-9532-871dde818747.jpg"); 
+}
+
+h1 {
+    
+}
+
+.no {
+    text-decoration: line-through;
+}
+
+.editar {
+    display: none;
+}
+
